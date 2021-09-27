@@ -1,5 +1,5 @@
 <h1 align="center">
-  IGNEWS
+  <a href='https://ignews-nextjs.vercel.app/' target='_blank'>IGNEWS</a>
 </h1>
 
 <p align="center">
@@ -14,7 +14,7 @@
 
 ## 💻 Sobre o projeto
 
-O Ignews é um blog que para você conseguir ler os posts é necessário ter uma assinatura mensal, você paga para consumir o conteúdo do blog. Foi um projeto desenvolvido no bootcamp ignite da escola de programação _Rocketseat_.
+O Ignews é um blog que para você conseguir ler os posts é necessário ter uma assinatura mensal, você paga para consumir o conteúdo do blog. Foi um projeto desenvolvido no bootcamp ignite da escola de programação _Rocketseat_. acesse a demo do projeto [clicando aqui](https://ignews-nextjs.vercel.app/).
 
 ## :hammer: Tecnologias
 
