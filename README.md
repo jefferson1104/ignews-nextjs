@@ -4,7 +4,6 @@
 
 <p align="center">
   <img alt="technology" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
-
   <img alt="technology" src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white">
 </p>
 
@@ -12,14 +11,12 @@
   <img src="./assets/screenshots/screenshot-01.png" alt="home do ignews">
 </p>
 
-## 💻 Sobre o projeto
+# 💻 About this project
 
-O Ignews é um blog que para você conseguir ler os posts é necessário ter uma assinatura mensal, você paga para consumir o conteúdo do blog. Foi um projeto desenvolvido no bootcamp ignite da escola de programação _Rocketseat_. acesse a demo do projeto [clicando aqui](https://ignews-nextjs.vercel.app/).
+Ignews is a blog that for you to be able to read the posts you need to have a monthly subscription, you pay to consume the blog's content. It was a project developed in the ignite bootcamp of the _Rocketseat_ programming school. access the project demo [clicking here](https://ignews-nextjs.vercel.app/).
 
-## :hammer: Tecnologias
-
-Este projeto foi desenvolvido com as seguintes Ferramentas:
-
+# :hammer: Technologies
+This project was developed with the following Tools:
 - **[TypeScript](https://www.typescriptlang.org/)**
 - **[Next.js](https://nextjs.org/)**
 - **[FaunaDB](https://fauna.com/)**
@@ -27,24 +24,22 @@ Este projeto foi desenvolvido com as seguintes Ferramentas:
 - **[Prismic CMS](https://prismic.io/)**
 - **[Axios](https://github.com/axios/axios)**
 
-## 🚀 Executar o projeto
-
+# 🚀 Run this project
 ```bash
-# Clone o repositório
+# Clone this repository
 $ git clone https://github.com/jefferson1104/ignews-nextjs
 
-# Faça a configuração no seu Github Oauth para o NextAuth.
+# Configure your Github Oauth for NextAuth.
 
-# Configure os serviços FaunaDB, Stripe e Prismic na .env
-# Siga o exemplo do arquivo .env.example
-# Após os ajustes renomeie para .env.local
+# Configure FaunaDB, Stripe and Prismic services in .env
+# Follow the example of the .env.example file
+# After the adjustments, rename it to .env.local
 
-# Execute o projeto
+# Run this application
 $ yarn dev
 ```
 
-## 🎨 Screenshots
-
+# 🎨 Screenshots
 ![screenshot](./assets/screenshots/screenshot-01.png)
 ![screenshot](./assets/screenshots/screenshot-02.png)
 ![screenshot](./assets/screenshots/screenshot-03.png)
