@@ -19,7 +19,7 @@ describe('Posts page', () => {
     expect(screen.getByText('Lorem Ipsum Post')).toBeInTheDocument();
   });
 
-   // testando o getStaticProps da home
+   // testando o getStaticProps da pagina de listagem de posts
    it('loads initial data', async () => {
     const getPrismicClientMocked = mocked(getPrismicClient);
 
