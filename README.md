@@ -38,7 +38,7 @@ $ git clone https://github.com/jefferson1104/ignews-nextjs
 # Run this application
 $ yarn dev
 
-#Thanks!!
+#Thanks!!!
 ```
 
 # 🎨 Screenshots
